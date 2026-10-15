@@ -2,7 +2,7 @@
 
 # Silvio Silva
 
-### Front-end Software Engineer · SaaS Builder · UI/UX Designer
+### Software Engineer · SaaS Builder · UI/UX Designer
 
 **Building premium digital products, SaaS platforms, and modern web experiences for businesses in Angola and beyond.**
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am a Front-end Software Engineer and product builder focused on creating modern, scalable, and premium digital platforms.
+I am  Software Engineer and product builder focused on creating modern, scalable, and premium digital platforms.
 
 My work combines software engineering, UI/UX design, product thinking, and business strategy to build platforms that solve real operational problems.
 
